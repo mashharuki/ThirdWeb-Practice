@@ -1,0 +1,2 @@
+# ThirdWeb-Practice
+ThirdWeb社が提供するテンプレートを使った練習用のリポジトリ
